@@ -5,13 +5,9 @@ Web Portfolio to showcase projects and skills in better manner.
 
 ![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
 ### About me
-* Competitive Programming Page
-* Web Designing Page
-* Software Development Page
-* Android Application Page
-* Technical Writing Page
-* Machine Learning Page
-* Open Source Page
+* Technical writer
+* Translator
+* Terminologist
 
 ### Hire Me banner
 ### Skills
