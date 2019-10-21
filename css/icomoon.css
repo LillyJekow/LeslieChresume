@@ -1792,3 +1792,7 @@
 .icon-education:before {
   content: "\e904";
 }
+
+.icon-pencil:before {
+  content: "\e906";
+}
